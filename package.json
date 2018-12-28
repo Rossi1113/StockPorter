@@ -17,17 +17,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/shiqing881215/MyStock.git"
+    "url": "git+https://github.com/Rossi1113/StockPorter.git"
   },
   "keywords": [
     "stock"
   ],
-  "author": "Qing Shi",
+  "author": "Xi Luo",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/shiqing881215/MyStock/issues"
+    "url": "https://github.com/Rossi1113/StockPorter/issues"
   },
-  "homepage": "https://github.com/shiqing881215/MyStock#readme",
+  "homepage": "https://github.com/Rossi1113/StockPorter#readme",
   "engines": {
     "node": "6.2.2"
   }
